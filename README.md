@@ -26,7 +26,7 @@ _Congratulations friends, you've completed this!_
 
 Your blog is now live and has been deployed!
 
-Here's a recap of all the tasks you've accomplished in your repository:
+Here is  a recap of all the tasks you have accomplished in your repository:
 
 - You enabled GitHub Pages.
 - You selected a theme using the config file.
